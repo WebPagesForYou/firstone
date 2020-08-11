@@ -1,0 +1,43 @@
+h1{
+font-variant:small-caps;
+background:#0078ff;
+color:#ff00de;
+font-family: arial;
+font-size: 150%;
+}
+header{
+background:#0078ff;
+color:#ff00de;
+}
+nav{
+font-variant:small-caps;
+font-family: Arial;
+background:#cc6878;
+}
+hr{
+color: red;
+}
+h2{
+color:#ff00de;
+font-variant:small-caps;
+}
+section{
+background: gray;
+}
+li{
+color: black;
+font-family: Arial;
+}
+footer{
+background:#0078ff;
+color:#ff00de;
+font-family: Arial;
+font-size: 150%;
+}
+details{
+font-style:italic;
+}
+summary{
+font-style: normal;
+}
+
